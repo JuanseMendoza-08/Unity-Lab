@@ -8,4 +8,4 @@
 This repository contains the Arduino and Unity implementation for the physical-digital interaction lab.
 
 ## Author
-Your Name
+Juan Mendoza - Grupo 5
